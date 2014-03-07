@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-	pynotebook
-	~~~~~~~~~~
+    pynotebook
+    ~~~~~~~~~~
 
-	pynotebook application package
-""" 
+    pynotebook application package
+"""
